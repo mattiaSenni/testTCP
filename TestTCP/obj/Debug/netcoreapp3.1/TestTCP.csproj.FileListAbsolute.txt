@@ -1,0 +1,13 @@
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\bin\Debug\netcoreapp3.1\TestTCP.exe
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\bin\Debug\netcoreapp3.1\TestTCP.deps.json
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\bin\Debug\netcoreapp3.1\TestTCP.runtimeconfig.json
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\bin\Debug\netcoreapp3.1\TestTCP.runtimeconfig.dev.json
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\bin\Debug\netcoreapp3.1\TestTCP.dll
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\bin\Debug\netcoreapp3.1\TestTCP.pdb
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\obj\Debug\netcoreapp3.1\TestTCP.csprojAssemblyReference.cache
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\obj\Debug\netcoreapp3.1\TestTCP.AssemblyInfoInputs.cache
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\obj\Debug\netcoreapp3.1\TestTCP.AssemblyInfo.cs
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\obj\Debug\netcoreapp3.1\TestTCP.csproj.CoreCompileInputs.cache
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\obj\Debug\netcoreapp3.1\TestTCP.dll
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\obj\Debug\netcoreapp3.1\TestTCP.pdb
+C:\Users\mattia.senni\Desktop\TestTCP\TestTCP\obj\Debug\netcoreapp3.1\TestTCP.genruntimeconfig.cache
